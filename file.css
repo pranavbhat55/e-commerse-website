@@ -1,0 +1,30 @@
+.Main{
+    height:100% ;
+    width: 100%;
+    background-color: #866638;
+    display: flex;
+}
+
+#part1{
+    height: 100%;
+    width: 26%;
+    background-color: aquamarine;
+}
+
+
+#part2{
+    height: 100%;
+    width: 64%;
+    background-color: rgb(127, 131, 255);
+}
+
+
+#part3{
+    height: 100%;
+    width: 10%;
+    background-color: rgb(220, 157, 11);
+}
+
+
+
+
